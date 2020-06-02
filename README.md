@@ -1,5 +1,7 @@
 # WindowsAHKScript
 
+some ahk script to increase speed of using windows
+
 一些可以加快操作效率的小脚本
 
 ## Different Type of ALTTAB
