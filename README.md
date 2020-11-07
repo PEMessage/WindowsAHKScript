@@ -19,8 +19,8 @@ using <kbd>Xbutton2</kbd>(Bowser_Forward in side mouse key) to call alttab menu 
 
 * Double click Xbutton2 for quick switch to previous task
 * Single click Xbutton2 then use Lbutton to choose task
-* Single click Xbutton2 then use RButton to close task without leave alttab menu
+* Single click Middle Button to close task without leave alttab menu
 
 * 双击来快速切换任务
 * 单击加右键来选择任务
-* 单击加左键来删除任务而不离开alttab菜单
+* 中键删除任务而不离开alttab菜单
